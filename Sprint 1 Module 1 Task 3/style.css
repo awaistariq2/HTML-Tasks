@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+}
+
+h2 {
+    color: purple;
+    text-decoration: underline;
+}
+
+p {
+    color: darkblue;
+    text-align: center;
+}
